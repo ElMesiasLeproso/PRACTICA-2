@@ -1,0 +1,32 @@
+producto,stock,precios,categoria
+Tomate,150,28.5,Verdura
+Cebolla Blanca,200,15.0,Verdura
+Lechuga,80,18.0,Verdura
+Papa,300,35.0,Verdura
+Zanahoria,120,12.0,Verdura
+Brócoli,60,40.0,Verdura
+Pechuga De Pollo,50,140.0,Carne
+Carne Molida,40,180.0,Carne
+Bistec De Res,30,190.0,Carne
+Chuleta De Cerdo,35,130.0,Carne
+Salmón,20,350.0,Carne
+Jugo De Naranja,90,32.0,Jugo
+Jugo De Manzana,70,28.0,Jugo
+Jugo De Uva,65,29.0,Jugo
+Leche Entera,100,26.0,Lacteos
+Queso,92,55.0,Lacteos
+Yogurt Natural,75,45.0,Lacteos
+Mantequilla,50,25.0,Lacteos
+Crema,60,18.0,Lacteos
+Arroz,200,34.0,Abarrotes
+Frijoles Negros,150,16.5,Abarrotes
+Atún,180,22.0,Abarrotes
+Aceite Vegetal,90,52.0,Abarrotes
+Pasta,100,15.0,Abarrotes
+Azúcar,110,48.0,Abarrotes
+Sal,130,20.0,Abarrotes
+Jabón De trastes,70,38.0,Limpieza
+Cloro,60,21.0,Limpieza
+Limpiador De Pisos,50,29.0,Limpieza
+Servilletas,100,35.0,Limpieza
+Toallitas,120,40.2,Limpieza
